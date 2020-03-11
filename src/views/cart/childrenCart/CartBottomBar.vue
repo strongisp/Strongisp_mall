@@ -9,7 +9,7 @@
       <span class="num">{{totalPrice}}</span>
     </div>
     <div class="count">
-      <a :href="isJump" @click="calcClick">去计算({{checkLength}})</a>
+      <a :href="isJump" @click="calcClick">去结算({{checkLength}})</a>
     </div>
   </div>
 </template>
