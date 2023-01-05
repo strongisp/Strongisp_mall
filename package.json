@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.2.0",
-    "@vue/cli-service": "^4.2.0",
+    "@vue/cli-service": "^5.0.8",
     "fastclick": "^1.0.6",
     "postcss-loader": "^3.0.0",
     "postcss-px-to-viewport": "^1.1.1",
